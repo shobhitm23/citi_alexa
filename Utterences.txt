@@ -1,0 +1,7 @@
+Calorie Intake
+
+Utterences
+
+1. How many calories did I consume today?
+2. How many calories did I consume?
+3. 
