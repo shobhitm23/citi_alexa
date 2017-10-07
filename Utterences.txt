@@ -12,4 +12,7 @@ Skill - Recommmendations
 
 Utterences
 
-1.
+1. What can you suggest for my diet
+2. What do I need to add to my diet
+3. What should be cut from the diet
+4. Do you have any recommendations for my diet plan?
